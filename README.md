@@ -1,4 +1,4 @@
-# Adiciona tradução para o Português (Brasileiro)
+# Adiciona tradução para o Português (Brasileiro) para Magento 1.8
 
 ## Instalação
 
